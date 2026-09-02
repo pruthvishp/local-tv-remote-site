@@ -1,6 +1,6 @@
 # Local TV Remote
 
-Public product website for the Local TV Remote Android application.
+Public product website for the Local TV Remote Android and iPhone applications.
 
 Published at:
 
