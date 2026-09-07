@@ -25,6 +25,7 @@ h1 em,h2 em { color:var(--cyan); font-weight:500; }
 .storeButton:focus-visible { outline:3px solid var(--cyan); outline-offset:4px; }
 .storeButton small { display:block; font-size:9px; letter-spacing:.13em; margin-bottom:4px; color:#cbd5db; }
 .playMark { font-size:24px; color:#fff; transform:rotate(-4deg); }
+.appleMark { font-size:19px; color:#fff; }
 .textLink { font-size:14px; font-weight:750; color:#dce6ec; }
 .textLink span { color:var(--cyan); margin-left:5px; }
 .status { color:#8195a5; font-size:12px; margin-top:22px; }
